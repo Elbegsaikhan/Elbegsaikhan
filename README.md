@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/ACzsN9dhQuOZ6RYXcM" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-code-coding-keepcoding-ACzsN9dhQuOZ6RYXcM">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Elbegsaikhan</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 
